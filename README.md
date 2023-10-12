@@ -4,7 +4,7 @@ ___
 Я простой плохой студент. Не хожу на пары и не делаю домашки. Джаст экспириментс с моим профилем. Люблю всей душой своего преподавателя по ЯП (а ещё котиков и вкусно поесть).
 ___
 Это я кстати
-<img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm92dHJ4cDRla2p5NGh3YmNibXc3cDR1MWVzODB3eGhsbHc1b3o2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fax7fhOg2beLfVcx0g/giphy.gif">
+<img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29ob3Bydmp0Mnc1dzZycXRwMnhlejdycGU2YnFxNG95eGZpbm54NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ksIY9rY1HiPJ9vG2nl/giphy.gif">
 <!--
 **4SomeReason/4SomeReason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
