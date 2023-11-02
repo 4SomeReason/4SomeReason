@@ -1,7 +1,7 @@
 # Hi, I'm Katya
 ___
 ### About me
-Я простой плохой студент. Не хожу на пары и не делаю домашки. Джаст экспириментс с моим профилем. Люблю всей душой своего преподавателя по ЯП (а ещё котиков и вкусно поесть).
+Я простой плохой студент. Не хожу на пары и не делаю домашки.
 ___
 Это я кстати
 <img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29ob3Bydmp0Mnc1dzZycXRwMnhlejdycGU2YnFxNG95eGZpbm54NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ksIY9rY1HiPJ9vG2nl/giphy.gif">
